@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Archita Vasuki
 ======================================================================================================================================
 
-Problem solver, Data Analyst/Scientist
---------------------------------------
-
-Data professional with 3 years of experience in delivering data-driven solutions for Fortune 500 companies through statistical analysis & modeling, automated data processes and data visualization. Passionate about driving product impact through data-driven decision-making and product experimentation.
+Data professional with 5 years of experience in delivering data-driven solutions for Fortune 500 companies through statistical analysis & modeling, automated data processes and data visualization. Passionate about driving product impact through data-informed decision making and product experimentation.
 
 * 🌍  I'm based in Seattle, Washington
 * 🖥️  See my portfolio at [http://bit.ly/architavasuki](http://bit.ly/architavasuki)
@@ -31,8 +28,6 @@ Data professional with 3 years of experience in delivering data-driven solutions
 <a href="http://www.github.com/architavasuki"><img src="https://github-readme-stats.vercel.app/api?username=architavasuki&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="architavasuki's GitHub stats" /></a>
 
 <a href="http://www.github.com/architavasuki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=architavasuki&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/architavasuki"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=architavasuki&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!--
 **architavasuki/architavasuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
