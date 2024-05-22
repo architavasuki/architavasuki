@@ -5,7 +5,7 @@ Data professional with 5 years of experience in delivering data-driven solutions
 
 * 🌍  I'm based in Seattle, Washington
 * 🖥️  See my portfolio at [http://bit.ly/architavasuki](http://bit.ly/architavasuki)
-* ✉️  You can contact me at [archita.vasu@gmail.com](mailto:archita.vasu@gmail.com)
+* ✉️  You can contact me at [archita.vasu@gmail.com](mailto:archita.vasu@gmail.com) or [https://www.linkedin.com/in/architavasuki/](https://www.linkedin.com/in/architavasuki/)
 * 🧠  I'm learning Causal Experimentation
 
 ### Skills
