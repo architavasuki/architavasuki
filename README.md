@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Archita Vasuki
 ======================================================================================================================================
 
-Data professional with 5 years of experience in delivering data-driven solutions for Fortune 500 companies through statistical analysis & modeling, automated data processes and data visualization. Passionate about driving product impact through data-informed decision making and product experimentation.
+Data professional with 4 years of experience in delivering data-driven solutions for Fortune 200 companies through statistical analysis & modeling, automated data processes and data visualization. Passionate about driving impact through actionable and data-informed decision-making.
 
-* 🌍  I'm based in Seattle, Washington
+* 🌍  I'm based in USA
 * 🖥️  See my portfolio at [http://bit.ly/architavasuki](http://bit.ly/architavasuki)
 * ✉️  You can contact me at [archita.vasu@gmail.com](mailto:archita.vasu@gmail.com) or [https://www.linkedin.com/in/architavasuki/](https://www.linkedin.com/in/architavasuki/)
-* 🧠  I'm learning Causal Experimentation
 
 ### Skills
 
@@ -18,16 +17,9 @@ Data professional with 5 years of experience in delivering data-driven solutions
 
 <p align="left"> <a href="https://www.github.com/architavasuki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/architavasuki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/archita.vasu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-### Work Examples
+<!--### Work Examples
 <a href="https://github.com/architavasuki/genetic_algorithms/tree/main"> Genetic Algorithms
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/architavasuki"><img src="https://github-readme-stats.vercel.app/api?username=architavasuki&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="architavasuki's GitHub stats" /></a>
-
-<a href="http://www.github.com/architavasuki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=architavasuki&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+-->
 
 <!--
 **architavasuki/architavasuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
